@@ -1,6 +1,16 @@
 import "./sidebar.scss"
 import DashboardIcon from '@material-ui/icons/Dashboard';
-
+import PeopleIcon from '@material-ui/icons/People';
+import FeaturedPlayListIcon from '@material-ui/icons/FeaturedPlayList';
+import ViewStreamIcon from '@material-ui/icons/ViewStream';
+import LocalShippingOutlinedIcon from '@material-ui/icons/LocalShippingOutlined';
+import EqualizerOutlinedIcon from '@material-ui/icons/EqualizerOutlined';
+import NotificationsActiveOutlinedIcon from '@material-ui/icons/NotificationsActiveOutlined';
+import SettingsSystemDaydreamOutlinedIcon from '@material-ui/icons/SettingsSystemDaydreamOutlined';
+import BrandingWatermarkOutlinedIcon from '@material-ui/icons/BrandingWatermarkOutlined';
+import SettingsOutlinedIcon from '@material-ui/icons/SettingsOutlined';
+import PersonOutlineOutlinedIcon from '@material-ui/icons/PersonOutlineOutlined';
+import ExitToAppOutlinedIcon from '@material-ui/icons/ExitToAppOutlined';
 
 const SideBar = () => {
   return (
@@ -17,50 +27,50 @@ const SideBar = () => {
           </li>
           <p className="title">Lists</p>
           <li>
-          <DashboardIcon className="icon"/>
+          <PeopleIcon className="icon"/>
             <span>Users</span>
           </li>
           <li>
-          <DashboardIcon className="icon"/>
+          <FeaturedPlayListIcon className="icon"/>
             <span>Products</span>
           </li>
           <li>
-          <DashboardIcon className="icon"/>
+          <ViewStreamIcon className="icon"/>
             <span>Orders</span>
           </li>
           <li>
-          <DashboardIcon className="icon"/>
+          <LocalShippingOutlinedIcon className="icon"/>
             <span>Delivery</span>
           </li>
           <p className="title">UseFull Links</p>
           <li>
-          <DashboardIcon className="icon"/>
+          <EqualizerOutlinedIcon className="icon"/>
             <span>Stats</span>
           </li>
           <li>
-          <DashboardIcon className="icon"/>
+          <NotificationsActiveOutlinedIcon className="icon"/>
             <span>Notification</span>
           </li>
           <p className="title">Serivce</p>
           <li>
-          <DashboardIcon className="icon"/>
+          <SettingsSystemDaydreamOutlinedIcon className="icon"/>
             <span>System Health</span>
           </li>
           <li>
-          <DashboardIcon className="icon"/>
+          <BrandingWatermarkOutlinedIcon className="icon"/>
             <span>Logs</span>
           </li>
           <li>
-          <DashboardIcon className="icon"/>
+          <SettingsOutlinedIcon className="icon"/>
             <span>Settings</span>
           </li>
           <p className="title">User</p>
           <li>
-          <DashboardIcon className="icon"/>
+          <PersonOutlineOutlinedIcon className="icon"/>
             <span>Profile</span>
           </li>
           <li>
-          <DashboardIcon className="icon"/>
+          <ExitToAppOutlinedIcon className="icon"/>
             <span>Logout</span>
           </li>
         </ul>
