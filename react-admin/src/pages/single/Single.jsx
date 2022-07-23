@@ -3,7 +3,7 @@ import "./single.scss"
 
 const Single = () => {
   return (
-    <div>Single</div>
+    <div className="single">Single</div>
   )
 }
 
