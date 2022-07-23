@@ -2,7 +2,6 @@ import "./navbar.scss"
 import SearchOutlinedIcon from '@material-ui/icons/SearchOutlined';
 import LanguageOutlinedIcon from '@material-ui/icons/LanguageOutlined';
 import Brightness2OutlinedIcon from '@material-ui/icons/Brightness2Outlined';
-// import SettingsBrightnessOutlinedIcon from '@material-ui/icons/SettingsBrightnessOutlined';
 import FullscreenExitOutlinedIcon from '@material-ui/icons/FullscreenExitOutlined';
 import NotificationsNoneOutlinedIcon from '@material-ui/icons/NotificationsNoneOutlined';
 import ChatBubbleOutlineOutlinedIcon from '@material-ui/icons/ChatBubbleOutlineOutlined';
