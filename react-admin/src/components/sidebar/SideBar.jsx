@@ -11,66 +11,74 @@ import BrandingWatermarkOutlinedIcon from '@material-ui/icons/BrandingWatermarkO
 import SettingsOutlinedIcon from '@material-ui/icons/SettingsOutlined';
 import PersonOutlineOutlinedIcon from '@material-ui/icons/PersonOutlineOutlined';
 import ExitToAppOutlinedIcon from '@material-ui/icons/ExitToAppOutlined';
+import { Link } from "react-router-dom";
+
 
 const SideBar = () => {
   return (
     <div className="sidebar">
       <div className="top">
-        <span className="logo">ADMIN DASHBOARD</span>
+        <Link to="/" style={{ textDecoration: "none" }}>
+          <span className="logo">ADMIN DASHBOARD</span>
+        </Link>
       </div><hr />
       <div className="center">
         <ul>
           <p className="title">Main</p>
           <li>
-          <DashboardIcon className="icon"/>
+            <DashboardIcon className="icon" />
             <span>Dashboard</span>
           </li>
           <p className="title">Lists</p>
+          <Link to="/users" style={{ textDecoration: "none" }}>
+            <li>
+              <PeopleIcon className="icon" />
+              <span>Users</span>
+            </li>
+          </Link>
+          <Link to="/products" style={{ textDecoration: "none" }}>
+            <li>
+              <FeaturedPlayListIcon className="icon" />
+              <span>Products</span>
+            </li>
+          </Link>
           <li>
-          <PeopleIcon className="icon"/>
-            <span>Users</span>
-          </li>
-          <li>
-          <FeaturedPlayListIcon className="icon"/>
-            <span>Products</span>
-          </li>
-          <li>
-          <ViewStreamIcon className="icon"/>
+            <ViewStreamIcon className="icon" />
             <span>Orders</span>
           </li>
           <li>
-          <LocalShippingOutlinedIcon className="icon"/>
+            <LocalShippingOutlinedIcon className="icon" />
             <span>Delivery</span>
           </li>
           <p className="title">UseFull Links</p>
           <li>
-          <EqualizerOutlinedIcon className="icon"/>
+            <EqualizerOutlinedIcon className="icon" />
             <span>Stats</span>
           </li>
           <li>
-          <NotificationsActiveOutlinedIcon className="icon"/>
+            <NotificationsActiveOutlinedIcon className="icon" />
             <span>Notification</span>
           </li>
           <p className="title">Serivce</p>
           <li>
-          <SettingsSystemDaydreamOutlinedIcon className="icon"/>
+            <SettingsSystemDaydreamOutlinedIcon className="icon" />
             <span>System Health</span>
           </li>
           <li>
-          <BrandingWatermarkOutlinedIcon className="icon"/>
+            <BrandingWatermarkOutlinedIcon className="icon" />
             <span>Logs</span>
           </li>
           <li>
-          <SettingsOutlinedIcon className="icon"/>
+            <SettingsOutlinedIcon className="icon" />
             <span>Settings</span>
           </li>
           <p className="title">User</p>
           <li>
-          <PersonOutlineOutlinedIcon className="icon"/>
+            <PersonOutlineOutlinedIcon className="icon" />
             <span>Profile</span>
           </li>
           <li>
-          <ExitToAppOutlinedIcon className="icon"/>
+            <ExitToAppOutlinedIcon className="icon" />
             <span>Logout</span>
           </li>
         </ul>
