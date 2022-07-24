@@ -12,9 +12,14 @@ import SettingsOutlinedIcon from '@material-ui/icons/SettingsOutlined';
 import PersonOutlineOutlinedIcon from '@material-ui/icons/PersonOutlineOutlined';
 import ExitToAppOutlinedIcon from '@material-ui/icons/ExitToAppOutlined';
 import { Link } from "react-router-dom";
+import { DarkModeContext } from "../../context/darkModeContext";
+import { useContext } from "react";
 
 
 const SideBar = () => {
+
+  const {dispatch} =useContext(DarkModeContext);
+
   return (
     <div className="sidebar">
       <div className="top">
@@ -84,8 +89,8 @@ const SideBar = () => {
         </ul>
       </div>
       <div className="bottom">
-        <div className="colorOptions"></div>
-        <div className="colorOptions"></div>
+        <div className="colorOptions" onClick={()=>dispatch({type:"LIGHT"})}></div>
+        <div className="colorOptions" onClick={()=>dispatch({type:"DARK"})}></div>
       </div>
     </div>
   )
