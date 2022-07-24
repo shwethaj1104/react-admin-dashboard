@@ -27,7 +27,7 @@ Individual User information can be viewed on clicking View button:
 ![image](https://user-images.githubusercontent.com/107784718/180655053-e6296731-6d2b-424f-bbcc-6a9bd91849ed.png)
 ![image](https://user-images.githubusercontent.com/107784718/180655077-4afb4cea-88ff-4bda-8513-e43dc524898f.png)
 
-Admin can create new user on clicking Add New button on top right:
+Admin can create new user on clicking Add New button on top right section of list of users:
 
 ![image](https://user-images.githubusercontent.com/107784718/180655096-5daec6fa-a8a1-46eb-bcf7-322337ad158c.png)
 
