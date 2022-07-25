@@ -2,6 +2,8 @@
 
 Admin Dashboard is built on React
 
+Here is the application URL: https://react-admin-omega-blush.vercel.app
+
 Technology used: Material icons, table and chart
 
 Landing Dashboard page:
