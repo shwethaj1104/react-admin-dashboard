@@ -1,5 +1,4 @@
 # react-admin-dashboard
-![image](https://user-images.githubusercontent.com/107784718/180926456-5e0ae02d-ee07-4ddf-92dc-87e365672c55.png)
 
 
 Admin Dashboard is built on React
