@@ -1,6 +1,6 @@
 # React Admin Dashboard
 
-Admin Dashboard is built on React
+Admin Dashboard built on React.js
 
 Here is the application URL: https://react-admin-omega-blush.vercel.app
 
