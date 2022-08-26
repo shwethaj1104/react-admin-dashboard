@@ -24,7 +24,7 @@ Admin can view exsiting users list :
 ![image](https://user-images.githubusercontent.com/107784718/180655068-a7c29c06-10e8-4d6a-8039-47136367cd62.png)
 
 
-Individual User information can be viewed on clicking View button:
+Individual User information can be viewed on clicking View button :
 
 ![image](https://user-images.githubusercontent.com/107784718/180655053-e6296731-6d2b-424f-bbcc-6a9bd91849ed.png)
 ![image](https://user-images.githubusercontent.com/107784718/180655077-4afb4cea-88ff-4bda-8513-e43dc524898f.png)
