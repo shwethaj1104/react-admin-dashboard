@@ -10,7 +10,7 @@ Landing Dashboard page :
 
 ![image](https://user-images.githubusercontent.com/107784718/180654948-9caf8751-167e-4b9a-bf2d-964c88be1cc8.png)
 
-Dashboard page in dark theme:
+Dashboard page in dark theme :
 
 ![image](https://user-images.githubusercontent.com/107784718/180655006-48ff8be8-a56f-49c1-80b0-360d698f06d9.png)
 
