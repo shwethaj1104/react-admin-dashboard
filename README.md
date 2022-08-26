@@ -6,7 +6,7 @@ Here is the application URL: https://react-admin-omega-blush.vercel.app
 
 Technology used: Material icons, table and chart.
 
-Landing Dashboard page:
+Landing Dashboard page :
 
 ![image](https://user-images.githubusercontent.com/107784718/180654948-9caf8751-167e-4b9a-bf2d-964c88be1cc8.png)
 
