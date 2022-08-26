@@ -38,7 +38,7 @@ List of products can be seen on navigating to Products bar :
 ![image](https://user-images.githubusercontent.com/107784718/180655141-8c9a90cc-55f8-4af7-a605-9e5ffbd84933.png)
 ![image](https://user-images.githubusercontent.com/107784718/180655145-6670b00a-48fd-40fe-ab01-d30d50bfc05c.png)
 
-Admin can also add new product:
+Admin can also add new product :
 
 ![image](https://user-images.githubusercontent.com/107784718/180655165-df128b1d-995e-4f3e-a78b-20e66ed346d0.png)
 
