@@ -33,7 +33,7 @@ Admin can create new user on clicking Add New button on top right section of lis
 
 ![image](https://user-images.githubusercontent.com/107784718/180655096-5daec6fa-a8a1-46eb-bcf7-322337ad158c.png)
 
-List of products can be seen on navigating to Products bar:
+List of products can be seen on navigating to Products bar :
 
 ![image](https://user-images.githubusercontent.com/107784718/180655141-8c9a90cc-55f8-4af7-a605-9e5ffbd84933.png)
 ![image](https://user-images.githubusercontent.com/107784718/180655145-6670b00a-48fd-40fe-ab01-d30d50bfc05c.png)
