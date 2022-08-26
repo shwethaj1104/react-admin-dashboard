@@ -14,7 +14,7 @@ Dashboard page in dark theme :
 
 ![image](https://user-images.githubusercontent.com/107784718/180655006-48ff8be8-a56f-49c1-80b0-360d698f06d9.png)
 
-Latest transactions section:
+Latest transactions section :
 
 ![image](https://user-images.githubusercontent.com/107784718/180654964-2c9f488c-7f87-41af-83b8-348463277b63.png)
 
