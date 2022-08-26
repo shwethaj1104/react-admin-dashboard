@@ -18,7 +18,7 @@ Latest transactions section :
 
 ![image](https://user-images.githubusercontent.com/107784718/180654964-2c9f488c-7f87-41af-83b8-348463277b63.png)
 
-Admin can view exsiting users list:
+Admin can view exsiting users list :
 
 ![image](https://user-images.githubusercontent.com/107784718/180655024-6c861478-0e8c-4c2a-97b2-f1d3f02766ae.png)
 ![image](https://user-images.githubusercontent.com/107784718/180655068-a7c29c06-10e8-4d6a-8039-47136367cd62.png)
