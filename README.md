@@ -4,7 +4,7 @@ Appication built on React.js
 
 Here is the application URL : https://react-admin-omega-blush.vercel.app
 
-Technology used: Material icons, table and chart.
+Technology used : Material icons, table and chart.
 
 Landing Dashboard page :
 
