@@ -1,4 +1,4 @@
-#  Admin Dashboard
+# Admin Dashboard
 
 Admin Dashboard built on React.js
 
